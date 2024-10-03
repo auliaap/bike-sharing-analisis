@@ -1,5 +1,3 @@
-# bike-sharing-analisis
-
 # Bike Sharing Data Analysis
 Project Overview
 This project analyzes bike sharing data to understand patterns in bike usage, particularly by hour, weather, and other factors. The data comes from a bike sharing service and includes information on the number of rides, weather conditions, and times of day.
