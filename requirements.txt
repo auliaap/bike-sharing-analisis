@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 pandas==2.2.2
 matplotlib==3.7.1
 seaborn==0.13.1
 streamlit version==1.39.0
 pip==24.2
+=======
+pandas==2.2.2
+matplotlib==3.7.1
+seaborn==0.13.1
+streamlit version==1.39.0
+pip==24.2
+>>>>>>> dd6d905fe92e2327b4aaf71cd351fcf8f5f67e39
