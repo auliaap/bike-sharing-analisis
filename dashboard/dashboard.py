@@ -1,11 +1,10 @@
-
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-data = pd.read_csv('main_data.csv')
+data = pd.read_csv('hour.csv')
 
 # Title
 st.title("Bike Sharing Data Analysis")
