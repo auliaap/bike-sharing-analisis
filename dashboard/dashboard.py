@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-data = pd.read_csv('hour.csv')
+data = pd.read_csv('dashboard/hour.csv')
 
 # Title
 st.title("Bike Sharing Data Analysis")
